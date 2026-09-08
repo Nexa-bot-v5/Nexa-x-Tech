@@ -1,0 +1,25 @@
+{
+  "bot": {
+    "mode": "self"
+  },
+  "2347043241922@s.whatsapp.net": {
+    "feature.autoreply": true
+  },
+  "2348152493572@s.whatsapp.net": {
+    "autoViewStatus": true
+  },
+  "254755132748@s.whatsapp.net": {
+    "autoViewStatus": true
+  },
+  "256783629209661@lid": {
+    "feature.autoreply": true,
+    "feature.antibadword": true
+  },
+  "254798575868@s.whatsapp.net": {
+    "autoViewStatus": true,
+    "autobio": true
+  },
+  "254791079370@s.whatsapp.net": {
+    "banned": false
+  }
+}
